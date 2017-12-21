@@ -33,8 +33,8 @@ nav_lists:
 #   rss:  /feed.xml
 
 ## GitHub repository (if the site is hosted by GitHub) ##
-# repository:  #e.g. someone/someone.github.io
-# repository_tree:  #e.g. master
+repository: j4ckstraw/blog #e.g. someone/someone.github.io
+repository_tree: master #e.g. master
 
 ## Language & timezone ##
 lang: zh #the language of your site, eg: en(English), zh(简体中文), zh-Hans(简体中文), zh-Hant(繁體中文)
@@ -43,14 +43,14 @@ timezone: Asia/Shanghai #see https://en.wikipedia.org/wiki/List_of_tz_database_t
 ## Author & social ##
 author:
   name: j4ckstraw 
-  # email:  j4ckstraw@github.com #your Email address e.g. someone@site.com
-  # facebook:  #your Facebook username
+  email:  j4ckstraw@gmail.com #your Email address e.g. someone@site.com
+  facebook: j4ckstraw #your Facebook username
   # twitter:  #your Twitter username
   github: j4ckstraw  #your GitHub username
   # googleplus:  #your Google+ username
-  # weibo:  #your Weibo username
+  weibo: _木头人__ #your Weibo username
   # douban:  #your Douban username
-  # linkedin:  #your Linkedin username
+  linkedin: j4ckstraw #your Linkedin username
 
 ## Comment system (Disqus) ##
 disqus:

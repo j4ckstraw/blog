@@ -8,6 +8,6 @@ lang: zh
 ## My first post
 
 This is my first post after setup this blog which powered by jekyll.
-mach thanks for [TeXt Theme](https://github.com/kitian616/jekyll-TeXt-theme) by Tian Qi.
+much thanks for [TeXt Theme](https://github.com/kitian616/jekyll-TeXt-theme).
 
 <!--more-->
